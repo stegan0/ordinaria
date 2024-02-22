@@ -1,0 +1,69 @@
+body {
+    background-color: orange;
+}
+header {
+    text-align: center;
+    color: white;
+}
+header.dos{
+    background-color: aqua;
+}
+img.a {
+    padding: 10px;
+    background-color: white;
+    position: absolute;
+    width: auto; 
+    height: 150px;
+}
+div.white {
+    background-color: white;
+    position: relative;
+    width: 80%;
+    height: 80%;
+}
+blockquote {
+    background-color: white;
+    color: blue;
+    position: relative;
+    right: -120px;
+}
+p1 {
+    color: red;
+    background-color: aqua;
+    position: relative;
+    right: auto;
+}
+img.b {
+    padding: 10px;
+    background-color: aqua;
+    position: absolute;
+    width: auto; 
+    height: 150px;
+    right: auto;
+}
+footer{
+    text-align: center;
+    background-color: rgb(238, 114, 114);
+}
+span{
+    background-color: yellow;
+}
+
+form{
+    background-color: aqua;
+}
+
+a:active{
+    background-color: yellow;
+    color: red;
+}
+
+div.blue {
+    background-color: blue;
+}
+
+
+div.red {
+    background-color: red;
+}
+
